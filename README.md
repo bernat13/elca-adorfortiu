@@ -1,3 +1,6 @@
-# elcazadorfurtivo
+# El Caçador fortiu
 
-TO DO
+Un conte d'un nen de 13 anys.
+
+
+//TODO
